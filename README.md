@@ -2,7 +2,7 @@
 
 > Text RPG game made in Python
 
-![Status](https://img.shields.io/badge/status-active-success)
+![Status](https://img.shields.io/badge/status-In%20Development%20\(WIP\)-orange)
 ![Language](https://img.shields.io/badge/language-Python-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
