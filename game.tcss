@@ -1,0 +1,15 @@
+Screen {
+    layout: grid,
+    grid-size: 3 4;
+    
+}
+
+#class_desc {
+    padding: 5 0;
+    text-align: center;
+    border: solid yellow;
+}
+
+#class_list {
+    height: 100,
+}
