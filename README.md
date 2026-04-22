@@ -9,14 +9,17 @@
 ---
 
 ## 📌 Overview
-A text RPG game I made in Python using the Textual TUI library to practice Python OOP.
+A fantasy-themed text RPG game I'm making in Python using the Textual Python library to practice Python OOP concepts and to learn TUI. The game will have random encounters, pre-written events, quests, etc.
 
 ---
 
 ## 🚀 Features
-- 💻 Clean TUI
-- 💀 Enemy Encounter System
-- 🔢 Player Stats & Inventory System
+- [X] ✨ Player Class Definitions
+- [ ] 🎒 Item/Weapon Definitions
+- [ ] 💻 Clean TUI
+- [ ] 💀 Combat System
+- [ ] 💵 Money System
+- [ ] 🔢 Player Stats & Inventory System
 
 ---
 
